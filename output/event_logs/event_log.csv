@@ -1,0 +1,781 @@
+Time_Stamp,ID,Energy _Stamp,Waste _Stamp,Event
+4.34,2,0,0,New Task
+4.34,2,0,0,Assign the line1
+4.34,2,0,0,Preprocessing1 (Begin)
+9.23,3,2.17,0,Processing1 (Begin)
+9.23,4,2.17,0,Processing1 (Begin)
+9.23,3,11.95,0.2,Task Completed1
+13.3,5,11.95,0.2,New Task
+13.3,5,11.95,0.2,Assign the line2
+13.3,5,11.95,0.2,Preprocessing2 (Begin)
+18.92,6,16.87,0.2,Processing2 (Begin)
+18.92,7,16.87,0.2,Processing2 (Begin)
+18.92,6,25.29,0.35,Task Completed2
+26.23,8,25.29,0.35,New Task
+26.23,8,25.29,0.35,Assign the line2
+26.23,8,25.29,0.35,Preprocessing2 (Begin)
+26.69,9,28,0.35,New Task
+26.69,9,28,0.35,Assign the line1
+26.69,9,28,0.35,Preprocessing1 (Begin)
+30.93,10,36.73,0.35,Processing2 (Begin)
+30.93,11,36.73,0.35,Processing2 (Begin)
+30.93,10,43.78,0.5,Task Completed2
+31.33,12,43.78,0.5,Processing1 (Begin)
+31.33,13,43.78,0.5,Processing1 (Begin)
+31.33,12,53.06,0.7,Task Completed1
+32.92,14,53.06,0.7,New Task
+32.92,14,53.06,0.7,Assign the line1
+32.92,14,53.06,0.7,Preprocessing1 (Begin)
+34.27,15,53.85,0.7,New Task
+34.27,15,53.85,0.7,Assign the line1
+37.83,16,53.85,0.7,Processing1 (Begin)
+37.83,17,53.85,0.7,Processing1 (Begin)
+37.83,16,63.68,0.9,Task Completed1
+37.83,15,63.68,0.9,Preprocessing1 (Begin)
+42.65,18,63.68,0.9,Processing1 (Begin)
+42.65,19,63.68,0.9,Processing1 (Begin)
+42.65,18,73.31,1.1,Task Completed1
+56.42,20,73.31,1.1,New Task
+56.42,20,73.31,1.1,Assign the line1
+56.42,20,73.31,1.1,Preprocessing1 (Begin)
+61.42,21,80.2,1.1,Processing1 (Begin)
+61.42,22,80.2,1.1,Processing1 (Begin)
+61.42,21,90.2,1.3,Task Completed1
+71.68,23,90.2,1.3,New Task
+71.68,23,90.2,1.3,Assign the line2
+71.68,23,90.2,1.3,Preprocessing2 (Begin)
+76.68,24,105.28,1.3,New Task
+76.68,24,105.28,1.3,Assign the line1
+76.68,24,105.28,1.3,Preprocessing1 (Begin)
+76.74,25,112.91,1.3,Processing2 (Begin)
+76.74,26,112.91,1.3,Processing2 (Begin)
+76.74,25,120.49,1.45,Task Completed2
+80.6,27,120.49,1.45,New Task
+80.6,27,120.49,1.45,Assign the line1
+81.32,28,120.49,1.45,Processing1 (Begin)
+81.32,29,120.49,1.45,Processing1 (Begin)
+81.32,28,129.76,1.65,Task Completed1
+81.32,27,129.76,1.65,Preprocessing1 (Begin)
+82.77,30,129.76,1.65,New Task
+82.77,30,129.76,1.65,Assign the line2
+82.77,30,129.76,1.65,Preprocessing2 (Begin)
+86.14,31,132,1.65,Processing1 (Begin)
+86.14,32,132,1.65,Processing1 (Begin)
+86.14,31,141.65,1.85,Task Completed1
+87.62,33,141.65,1.85,Processing2 (Begin)
+87.62,34,141.65,1.85,Processing2 (Begin)
+87.62,33,148.92,2,Task Completed2
+110.67,35,148.92,2,New Task
+110.67,35,148.92,2,Assign the line2
+110.67,35,148.92,2,Preprocessing2 (Begin)
+115.42,36,157.45,2,Processing2 (Begin)
+115.42,37,157.45,2,Processing2 (Begin)
+115.42,36,164.58,2.15,Task Completed2
+115.49,38,164.58,2.15,New Task
+115.49,38,164.58,2.15,Assign the line2
+115.49,38,164.58,2.15,Preprocessing2 (Begin)
+120.12,39,164.6,2.15,Processing2 (Begin)
+120.12,40,164.6,2.15,Processing2 (Begin)
+120.12,39,171.55,2.3,Task Completed2
+126.24,41,171.55,2.3,New Task
+126.24,41,171.55,2.3,Assign the line1
+126.24,41,171.55,2.3,Preprocessing1 (Begin)
+131.24,42,191.59,2.3,Processing1 (Begin)
+131.24,43,191.59,2.3,Processing1 (Begin)
+131.24,42,201.6,2.5,Task Completed1
+131.37,44,201.6,2.5,New Task
+131.37,44,201.6,2.5,Assign the line1
+131.37,44,201.6,2.5,Preprocessing1 (Begin)
+135.72,45,201.67,2.5,New Task
+135.72,45,201.67,2.5,Assign the line1
+135.91,46,201.67,2.5,Processing1 (Begin)
+135.91,47,201.67,2.5,Processing1 (Begin)
+135.91,45,210.74,2.7,Preprocessing1 (Begin)
+135.91,46,210.74,2.7,Task Completed1
+138.24,48,210.74,2.7,New Task
+138.24,48,210.74,2.7,Assign the line2
+138.24,48,210.74,2.7,Preprocessing2 (Begin)
+138.68,49,217.45,2.7,New Task
+138.68,49,217.45,2.7,Assign the line2
+140.93,50,217.45,2.7,Processing1 (Begin)
+140.93,51,217.45,2.7,Processing1 (Begin)
+140.93,50,227.48,2.9,Task Completed1
+143.62,52,227.48,2.9,Processing2 (Begin)
+143.62,53,227.48,2.9,Processing2 (Begin)
+143.62,49,235.55,3.05,Preprocessing2 (Begin)
+143.62,52,235.55,3.05,Task Completed2
+145.04,54,235.55,3.05,New Task
+145.04,54,235.55,3.05,Assign the line1
+145.04,54,235.55,3.05,Preprocessing1 (Begin)
+148.43,55,237.6,3.05,Processing2 (Begin)
+148.43,56,237.6,3.05,Processing2 (Begin)
+148.43,55,244.82,3.2,Task Completed2
+150.12,57,244.82,3.2,Processing1 (Begin)
+150.12,58,244.82,3.2,Processing1 (Begin)
+150.12,57,254.98,3.4,Task Completed1
+159.46,59,254.98,3.4,New Task
+159.46,59,254.98,3.4,Assign the line1
+159.46,59,254.98,3.4,Preprocessing1 (Begin)
+164.07,60,259.65,3.4,Processing1 (Begin)
+164.07,61,259.65,3.4,Processing1 (Begin)
+164.07,60,268.86,3.6,Task Completed1
+187.35,62,268.86,3.6,New Task
+187.35,62,268.86,3.6,Assign the line1
+187.35,62,268.86,3.6,Preprocessing1 (Begin)
+191.87,63,280.51,3.6,Processing1 (Begin)
+191.87,64,280.51,3.6,Processing1 (Begin)
+191.87,63,289.54,3.8,Task Completed1
+208.85,65,289.54,3.8,New Task
+208.85,65,289.54,3.8,Assign the line2
+208.85,65,289.54,3.8,Preprocessing2 (Begin)
+213.44,66,311.9,3.8,New Task
+213.44,66,311.9,3.8,Assign the line1
+213.44,66,311.9,3.8,Preprocessing1 (Begin)
+213.62,67,322.68,3.8,Processing2 (Begin)
+213.62,68,322.68,3.8,Processing2 (Begin)
+213.62,67,329.85,3.95,Task Completed2
+218.55,69,329.85,3.95,Processing1 (Begin)
+218.55,70,329.85,3.95,Processing1 (Begin)
+218.55,69,340.07,4.15,Task Completed1
+247.78,71,340.07,4.15,New Task
+247.78,71,340.07,4.15,Assign the line1
+247.78,71,340.07,4.15,Preprocessing1 (Begin)
+252.75,72,354.68,4.15,Processing1 (Begin)
+252.75,73,354.68,4.15,Processing1 (Begin)
+252.75,72,364.62,4.35,Task Completed1
+273.39,74,364.62,4.35,New Task
+273.39,74,364.62,4.35,Assign the line2
+273.39,74,364.62,4.35,Preprocessing2 (Begin)
+276.5,75,386.73,4.35,New Task
+276.5,75,386.73,4.35,Assign the line1
+276.5,75,386.73,4.35,Preprocessing1 (Begin)
+278.33,76,398.61,4.35,Processing2 (Begin)
+278.33,77,398.61,4.35,Processing2 (Begin)
+278.33,76,406.02,4.5,Task Completed2
+281.32,78,406.02,4.5,Processing1 (Begin)
+281.32,79,406.02,4.5,Processing1 (Begin)
+281.32,78,415.66,4.7,Task Completed1
+292.92,80,415.66,4.7,New Task
+292.92,80,415.66,4.7,Assign the line1
+292.92,80,415.66,4.7,Preprocessing1 (Begin)
+297.65,81,421.46,4.7,Processing1 (Begin)
+297.65,82,421.46,4.7,Processing1 (Begin)
+297.65,81,430.92,4.9,Task Completed1
+321.62,83,430.92,4.9,New Task
+321.62,83,430.92,4.9,Assign the line2
+321.62,83,430.92,4.9,Preprocessing2 (Begin)
+326.15,84,446.93,4.9,New Task
+326.15,84,446.93,4.9,Assign the line1
+326.15,84,446.93,4.9,Preprocessing1 (Begin)
+326.56,85,461.18,4.9,Processing2 (Begin)
+326.56,86,461.18,4.9,Processing2 (Begin)
+326.56,85,468.59,5.05,Task Completed2
+327.83,87,468.59,5.05,New Task
+327.83,87,468.59,5.05,Assign the line2
+327.83,87,468.59,5.05,Preprocessing2 (Begin)
+328.42,88,469.06,5.05,New Task
+328.42,88,469.06,5.05,Assign the line2
+331,89,469.06,5.05,Processing1 (Begin)
+331,90,469.06,5.05,Processing1 (Begin)
+331,89,478.76,5.25,Task Completed1
+332.69,91,478.76,5.25,Processing2 (Begin)
+332.69,92,478.76,5.25,Processing2 (Begin)
+332.69,88,486.05,5.4,Preprocessing2 (Begin)
+332.69,91,486.05,5.4,Task Completed2
+337.64,93,486.05,5.4,Processing2 (Begin)
+337.64,94,486.05,5.4,Processing2 (Begin)
+337.64,93,493.47,5.55,Task Completed2
+341.48,95,493.47,5.55,New Task
+341.48,95,493.47,5.55,Assign the line2
+341.48,95,493.47,5.55,Preprocessing2 (Begin)
+342.86,96,494.89,5.55,New Task
+342.86,96,494.89,5.55,Assign the line1
+342.86,96,494.89,5.55,Preprocessing1 (Begin)
+346.75,97,500.82,5.55,Processing2 (Begin)
+346.75,98,500.82,5.55,Processing2 (Begin)
+346.75,97,508.72,5.7,Task Completed2
+347.44,99,508.72,5.7,Processing1 (Begin)
+347.44,100,508.72,5.7,Processing1 (Begin)
+347.44,99,517.88,5.9,Task Completed1
+413.41,101,517.88,5.9,New Task
+413.41,101,517.88,5.9,Assign the line1
+413.41,101,517.88,5.9,Preprocessing1 (Begin)
+418.57,102,550.87,5.9,New Task
+418.57,102,550.87,5.9,Assign the line1
+418.82,103,550.87,5.9,Processing1 (Begin)
+418.82,104,550.87,5.9,Processing1 (Begin)
+418.82,102,561.69,6.1,Preprocessing1 (Begin)
+418.82,103,561.69,6.1,Task Completed1
+423.87,105,561.69,6.1,Processing1 (Begin)
+423.87,106,561.69,6.1,Processing1 (Begin)
+423.87,105,571.79,6.3,Task Completed1
+424.06,107,571.79,6.3,New Task
+424.06,107,571.79,6.3,Assign the line2
+424.06,107,571.79,6.3,Preprocessing2 (Begin)
+425.39,108,600.4,6.3,New Task
+425.39,108,600.4,6.3,Assign the line2
+429.17,109,600.4,6.3,Processing2 (Begin)
+429.17,110,600.4,6.3,Processing2 (Begin)
+429.17,109,608.06,6.45,Task Completed2
+429.17,108,608.06,6.45,Preprocessing2 (Begin)
+434.55,111,608.06,6.45,Processing2 (Begin)
+434.55,112,608.06,6.45,Processing2 (Begin)
+434.55,111,616.13,6.6,Task Completed2
+441.06,113,616.13,6.6,New Task
+441.06,113,616.13,6.6,Assign the line1
+441.06,113,616.13,6.6,Preprocessing1 (Begin)
+446.34,114,624.73,6.6,Processing1 (Begin)
+446.34,115,624.73,6.6,Processing1 (Begin)
+446.34,114,635.29,6.8,Task Completed1
+451.47,116,635.29,6.8,New Task
+451.47,116,635.29,6.8,Assign the line1
+451.47,116,635.29,6.8,Preprocessing1 (Begin)
+451.94,117,637.85,6.8,New Task
+451.94,117,637.85,6.8,Assign the line1
+456.05,118,637.85,6.8,Processing1 (Begin)
+456.05,119,637.85,6.8,Processing1 (Begin)
+456.05,118,647.01,7,Task Completed1
+456.05,117,647.01,7,Preprocessing1 (Begin)
+457.19,120,647.01,7,New Task
+457.19,120,647.01,7,Assign the line2
+457.19,120,647.01,7,Preprocessing2 (Begin)
+460.81,121,655.39,7,Processing1 (Begin)
+460.81,122,655.39,7,Processing1 (Begin)
+460.81,121,664.91,7.2,Task Completed1
+462.49,123,664.91,7.2,Processing2 (Begin)
+462.49,124,664.91,7.2,Processing2 (Begin)
+462.49,123,672.87,7.35,Task Completed2
+463.52,125,672.87,7.35,New Task
+463.52,125,672.87,7.35,Assign the line1
+463.52,125,672.87,7.35,Preprocessing1 (Begin)
+468.6,126,674.22,7.35,Processing1 (Begin)
+468.6,127,674.22,7.35,Processing1 (Begin)
+468.6,126,684.39,7.55,Task Completed1
+479.7,128,684.39,7.55,New Task
+479.7,128,684.39,7.55,Assign the line2
+479.7,128,684.39,7.55,Preprocessing2 (Begin)
+481.87,129,690.76,7.55,New Task
+481.87,129,690.76,7.55,Assign the line1
+481.87,129,690.76,7.55,Preprocessing1 (Begin)
+484.49,130,697.39,7.55,Processing2 (Begin)
+484.49,131,697.39,7.55,Processing2 (Begin)
+484.49,130,704.58,7.7,Task Completed2
+486.63,132,704.58,7.7,Processing1 (Begin)
+486.63,133,704.58,7.7,Processing1 (Begin)
+486.63,132,714.11,7.9,Task Completed1
+527.88,134,714.11,7.9,New Task
+527.88,134,714.11,7.9,Assign the line1
+527.88,134,714.11,7.9,Preprocessing1 (Begin)
+531.96,135,734.73,7.9,New Task
+531.96,135,734.73,7.9,Assign the line1
+532.71,136,734.73,7.9,Processing1 (Begin)
+532.71,137,734.73,7.9,Processing1 (Begin)
+532.71,135,744.39,8.1,Preprocessing1 (Begin)
+532.71,136,744.39,8.1,Task Completed1
+537.67,138,744.39,8.1,Processing1 (Begin)
+537.67,139,744.39,8.1,Processing1 (Begin)
+537.67,138,754.31,8.3,Task Completed1
+546,140,754.31,8.3,New Task
+546,140,754.31,8.3,Assign the line2
+546,140,754.31,8.3,Preprocessing2 (Begin)
+550.97,141,777.07,8.3,Processing2 (Begin)
+550.97,142,777.07,8.3,Processing2 (Begin)
+550.97,141,784.53,8.45,Task Completed2
+555.52,143,784.53,8.45,New Task
+555.52,143,784.53,8.45,Assign the line1
+555.52,143,784.53,8.45,Preprocessing1 (Begin)
+560.17,144,793.45,8.45,Processing1 (Begin)
+560.17,145,793.45,8.45,Processing1 (Begin)
+560.17,144,802.75,8.65,Task Completed1
+583.16,146,802.75,8.65,New Task
+583.16,146,802.75,8.65,Assign the line1
+583.16,146,802.75,8.65,Preprocessing1 (Begin)
+583.72,147,814.25,8.65,New Task
+583.72,147,814.25,8.65,Assign the line2
+583.72,147,814.25,8.65,Preprocessing2 (Begin)
+588,148,826.37,8.65,New Task
+588,148,826.37,8.65,Assign the line1
+588.19,149,826.37,8.65,Processing1 (Begin)
+588.19,150,826.37,8.65,Processing1 (Begin)
+588.19,148,836.42,8.85,Preprocessing1 (Begin)
+588.19,149,836.42,8.85,Task Completed1
+588.87,151,836.42,8.85,Processing2 (Begin)
+588.87,152,836.42,8.85,Processing2 (Begin)
+588.87,151,844.14,9,Task Completed2
+592.91,153,844.14,9,Processing1 (Begin)
+592.91,154,844.14,9,Processing1 (Begin)
+592.91,153,853.59,9.2,Task Completed1
+603.1,155,853.59,9.2,New Task
+603.1,155,853.59,9.2,Assign the line2
+603.1,155,853.59,9.2,Preprocessing2 (Begin)
+608.56,156,858.85,9.2,Processing2 (Begin)
+608.56,157,858.85,9.2,Processing2 (Begin)
+608.56,156,867.03,9.35,Task Completed2
+614.05,158,867.03,9.35,New Task
+614.05,158,867.03,9.35,Assign the line2
+614.05,158,867.03,9.35,Preprocessing2 (Begin)
+618.12,159,869.06,9.35,New Task
+618.12,159,869.06,9.35,Assign the line1
+618.12,159,869.06,9.35,Preprocessing1 (Begin)
+618.87,160,881.67,9.35,Processing2 (Begin)
+618.87,161,881.67,9.35,Processing2 (Begin)
+618.87,160,888.9,9.5,Task Completed2
+622.95,162,888.9,9.5,Processing1 (Begin)
+622.95,163,888.9,9.5,Processing1 (Begin)
+622.95,162,898.56,9.7,Task Completed1
+626.06,164,898.56,9.7,New Task
+626.06,164,898.56,9.7,Assign the line1
+626.06,164,898.56,9.7,Preprocessing1 (Begin)
+630.96,165,900.12,9.7,Processing1 (Begin)
+630.96,166,900.12,9.7,Processing1 (Begin)
+630.96,165,909.91,9.9,Task Completed1
+653.65,167,909.91,9.9,New Task
+653.65,167,909.91,9.9,Assign the line1
+653.65,167,909.91,9.9,Preprocessing1 (Begin)
+655.21,168,921.26,9.9,New Task
+655.21,168,921.26,9.9,Assign the line1
+658.56,169,921.26,9.9,Processing1 (Begin)
+658.56,170,921.26,9.9,Processing1 (Begin)
+658.56,169,931.07,10.1,Task Completed1
+658.56,168,931.07,10.1,Preprocessing1 (Begin)
+661.43,171,931.07,10.1,New Task
+661.43,171,931.07,10.1,Assign the line2
+661.43,171,931.07,10.1,Preprocessing2 (Begin)
+662.82,172,946.82,10.1,New Task
+662.82,172,946.82,10.1,Assign the line1
+663.28,173,946.82,10.1,Processing1 (Begin)
+663.28,174,946.82,10.1,Processing1 (Begin)
+663.28,173,956.26,10.3,Task Completed1
+663.28,172,956.26,10.3,Preprocessing1 (Begin)
+666.6,175,956.26,10.3,Processing2 (Begin)
+666.6,176,956.26,10.3,Processing2 (Begin)
+666.6,175,964.03,10.45,Task Completed2
+668.1,177,964.03,10.45,Processing1 (Begin)
+668.1,178,964.03,10.45,Processing1 (Begin)
+668.1,177,973.66,10.65,Task Completed1
+668.52,179,973.66,10.65,New Task
+668.52,179,973.66,10.65,Assign the line1
+668.52,179,973.66,10.65,Preprocessing1 (Begin)
+673.6,180,973.87,10.65,Processing1 (Begin)
+673.6,181,973.87,10.65,Processing1 (Begin)
+673.6,180,984.03,10.85,Task Completed1
+685.15,182,984.03,10.85,New Task
+685.15,182,984.03,10.85,Assign the line2
+685.15,182,984.03,10.85,Preprocessing2 (Begin)
+685.46,183,990.89,10.85,New Task
+685.46,183,990.89,10.85,Assign the line1
+685.46,183,990.89,10.85,Preprocessing1 (Begin)
+689.69,184,996.82,10.85,New Task
+689.69,184,996.82,10.85,Assign the line1
+690.07,185,996.82,10.85,Processing2 (Begin)
+690.07,186,996.82,10.85,Processing2 (Begin)
+690.07,185,1004.21,11,Task Completed2
+690.26,187,1004.21,11,Processing1 (Begin)
+690.26,188,1004.21,11,Processing1 (Begin)
+690.26,187,1013.81,11.2,Task Completed1
+690.26,184,1013.81,11.2,Preprocessing1 (Begin)
+695.11,189,1013.81,11.2,Processing1 (Begin)
+695.11,190,1013.81,11.2,Processing1 (Begin)
+695.11,189,1023.51,11.4,Task Completed1
+696.67,191,1023.51,11.4,New Task
+696.67,191,1023.51,11.4,Assign the line1
+696.67,191,1023.51,11.4,Preprocessing1 (Begin)
+701.33,192,1024.29,11.4,Processing1 (Begin)
+701.33,193,1024.29,11.4,Processing1 (Begin)
+701.33,192,1033.61,11.6,Task Completed1
+711.06,194,1033.61,11.6,New Task
+711.06,194,1033.61,11.6,Assign the line1
+711.06,194,1033.61,11.6,Preprocessing1 (Begin)
+714.41,195,1038.48,11.6,New Task
+714.41,195,1038.48,11.6,Assign the line1
+716.3,196,1038.48,11.6,Processing1 (Begin)
+716.3,197,1038.48,11.6,Processing1 (Begin)
+716.3,195,1048.96,11.8,Preprocessing1 (Begin)
+716.3,196,1048.96,11.8,Task Completed1
+720.65,198,1048.96,11.8,Processing1 (Begin)
+720.65,199,1048.96,11.8,Processing1 (Begin)
+720.65,198,1057.66,12,Task Completed1
+728.67,200,1057.66,12,New Task
+728.67,200,1057.66,12,Assign the line2
+728.67,200,1057.66,12,Preprocessing2 (Begin)
+733.76,201,1071.94,12,Processing2 (Begin)
+733.76,202,1071.94,12,Processing2 (Begin)
+733.76,201,1079.57,12.15,Task Completed2
+737.2,203,1079.57,12.15,New Task
+737.2,203,1079.57,12.15,Assign the line2
+737.2,203,1079.57,12.15,Preprocessing2 (Begin)
+742.61,204,1080.85,12.15,Processing2 (Begin)
+742.61,205,1080.85,12.15,Processing2 (Begin)
+742.61,204,1088.96,12.3,Task Completed2
+754.05,206,1088.96,12.3,New Task
+754.05,206,1088.96,12.3,Assign the line1
+754.05,206,1088.96,12.3,Preprocessing1 (Begin)
+759.36,207,1105.66,12.3,Processing1 (Begin)
+759.36,208,1105.66,12.3,Processing1 (Begin)
+759.36,207,1116.29,12.5,Task Completed1
+762.98,209,1116.29,12.5,New Task
+762.98,209,1116.29,12.5,Assign the line1
+762.98,209,1116.29,12.5,Preprocessing1 (Begin)
+768.46,210,1118.1,12.5,Processing1 (Begin)
+768.46,211,1118.1,12.5,Processing1 (Begin)
+768.46,210,1129.05,12.7,Task Completed1
+775.4,212,1129.05,12.7,New Task
+775.4,212,1129.05,12.7,Assign the line2
+775.4,212,1129.05,12.7,Preprocessing2 (Begin)
+776.49,213,1141.19,12.7,New Task
+776.49,213,1141.19,12.7,Assign the line1
+776.49,213,1141.19,12.7,Preprocessing1 (Begin)
+778.84,214,1145.2,12.7,New Task
+778.84,214,1145.2,12.7,Assign the line2
+780.29,215,1145.2,12.7,Processing2 (Begin)
+780.29,216,1145.2,12.7,Processing2 (Begin)
+780.29,215,1152.53,12.85,Task Completed2
+780.29,214,1152.53,12.85,Preprocessing2 (Begin)
+781.69,217,1152.53,12.85,Processing1 (Begin)
+781.69,218,1152.53,12.85,Processing1 (Begin)
+781.69,217,1162.92,13.05,Task Completed1
+785.2,219,1162.92,13.05,Processing2 (Begin)
+785.2,220,1162.92,13.05,Processing2 (Begin)
+785.2,219,1170.29,13.2,Task Completed2
+811.79,221,1170.29,13.2,New Task
+811.79,221,1170.29,13.2,Assign the line2
+811.79,221,1170.29,13.2,Preprocessing2 (Begin)
+816.38,222,1180.13,13.2,Processing2 (Begin)
+816.38,223,1180.13,13.2,Processing2 (Begin)
+816.38,222,1187,13.35,Task Completed2
+819.25,224,1187,13.35,New Task
+819.25,224,1187,13.35,Assign the line1
+819.25,224,1187,13.35,Preprocessing1 (Begin)
+823.45,225,1205.79,13.35,New Task
+823.45,225,1205.79,13.35,Assign the line2
+823.45,225,1205.79,13.35,Preprocessing2 (Begin)
+823.69,226,1208.4,13.35,Processing1 (Begin)
+823.69,227,1208.4,13.35,Processing1 (Begin)
+823.69,226,1217.28,13.55,Task Completed1
+828.09,228,1217.28,13.55,Processing2 (Begin)
+828.09,229,1217.28,13.55,Processing2 (Begin)
+828.09,228,1224.24,13.7,Task Completed2
+829.8,230,1224.24,13.7,New Task
+829.8,230,1224.24,13.7,Assign the line2
+829.8,230,1224.24,13.7,Preprocessing2 (Begin)
+834.61,231,1224.87,13.7,Processing2 (Begin)
+834.61,232,1224.87,13.7,Processing2 (Begin)
+834.61,231,1232.09,13.85,Task Completed2
+841.42,233,1232.09,13.85,New Task
+841.42,233,1232.09,13.85,Assign the line1
+841.42,233,1232.09,13.85,Preprocessing1 (Begin)
+846.18,234,1240.95,13.85,Processing1 (Begin)
+846.18,235,1240.95,13.85,Processing1 (Begin)
+846.18,234,1250.48,14.05,Task Completed1
+848.1,236,1250.48,14.05,New Task
+848.1,236,1250.48,14.05,Assign the line2
+848.1,236,1250.48,14.05,Preprocessing2 (Begin)
+852.95,237,1255.47,14.05,Processing2 (Begin)
+852.95,238,1255.47,14.05,Processing2 (Begin)
+852.95,237,1262.76,14.2,Task Completed2
+859.53,239,1262.76,14.2,New Task
+859.53,239,1262.76,14.2,Assign the line2
+859.53,239,1262.76,14.2,Preprocessing2 (Begin)
+864.43,240,1265.19,14.2,Processing2 (Begin)
+864.43,241,1265.19,14.2,Processing2 (Begin)
+864.43,240,1272.55,14.35,Task Completed2
+871.49,242,1272.55,14.35,New Task
+871.49,242,1272.55,14.35,Assign the line1
+871.49,242,1272.55,14.35,Preprocessing1 (Begin)
+876.17,243,1285.2,14.35,Processing1 (Begin)
+876.17,244,1285.2,14.35,Processing1 (Begin)
+876.17,243,1294.58,14.55,Task Completed1
+881.34,245,1294.58,14.55,New Task
+881.34,245,1294.58,14.55,Assign the line1
+881.34,245,1294.58,14.55,Preprocessing1 (Begin)
+885.83,246,1297.16,14.55,Processing1 (Begin)
+885.83,247,1297.16,14.55,Processing1 (Begin)
+885.83,246,1306.14,14.75,Task Completed1
+893.33,248,1306.14,14.75,New Task
+893.33,248,1306.14,14.75,Assign the line1
+893.33,248,1306.14,14.75,Preprocessing1 (Begin)
+896.32,249,1309.89,14.75,New Task
+896.32,249,1309.89,14.75,Assign the line1
+896.65,250,1309.89,14.75,New Task
+896.65,250,1309.89,14.75,Assign the line2
+896.65,250,1309.89,14.75,Preprocessing2 (Begin)
+897.91,251,1321.81,14.75,Processing1 (Begin)
+897.91,252,1321.81,14.75,Processing1 (Begin)
+897.91,251,1330.97,14.95,Task Completed1
+897.91,249,1330.97,14.95,Preprocessing1 (Begin)
+901.3,253,1330.97,14.95,Processing2 (Begin)
+901.3,254,1330.97,14.95,Processing2 (Begin)
+901.3,253,1337.94,15.1,Task Completed2
+903.07,255,1337.94,15.1,Processing1 (Begin)
+903.07,256,1337.94,15.1,Processing1 (Begin)
+903.07,255,1348.26,15.3,Task Completed1
+903.08,257,1348.26,15.3,New Task
+903.08,257,1348.26,15.3,Assign the line2
+903.08,257,1348.26,15.3,Preprocessing2 (Begin)
+907.72,258,1348.92,15.3,Processing2 (Begin)
+907.72,259,1348.92,15.3,Processing2 (Begin)
+907.72,258,1355.88,15.45,Task Completed2
+909.39,260,1355.88,15.45,New Task
+909.39,260,1355.88,15.45,Assign the line1
+909.39,260,1355.88,15.45,Preprocessing1 (Begin)
+914.39,261,1359.03,15.45,Processing1 (Begin)
+914.39,262,1359.03,15.45,Processing1 (Begin)
+914.39,261,1369.04,15.65,Task Completed1
+917.87,263,1369.04,15.65,New Task
+917.87,263,1369.04,15.65,Assign the line2
+917.87,263,1369.04,15.65,Preprocessing2 (Begin)
+922.87,264,1372.79,15.65,Processing2 (Begin)
+922.87,265,1372.79,15.65,Processing2 (Begin)
+922.87,264,1380.29,15.8,Task Completed2
+930.18,266,1380.29,15.8,New Task
+930.18,266,1380.29,15.8,Assign the line1
+930.18,266,1380.29,15.8,Preprocessing1 (Begin)
+934.9,267,1388.19,15.8,Processing1 (Begin)
+934.9,268,1388.19,15.8,Processing1 (Begin)
+934.9,267,1397.62,16,Task Completed1
+948.6,269,1397.62,16,New Task
+948.6,269,1397.62,16,Assign the line1
+948.6,269,1397.62,16,Preprocessing1 (Begin)
+949.36,270,1404.47,16,New Task
+949.36,270,1404.47,16,Assign the line2
+949.36,270,1404.47,16,Preprocessing2 (Begin)
+953.44,271,1414.28,16,Processing1 (Begin)
+953.44,272,1414.28,16,Processing1 (Begin)
+953.44,271,1423.96,16.2,Task Completed1
+954.15,273,1423.96,16.2,New Task
+954.15,273,1423.96,16.2,Assign the line2
+954.4,274,1423.96,16.2,Processing2 (Begin)
+954.4,275,1423.96,16.2,Processing2 (Begin)
+954.4,274,1431.51,16.35,Task Completed2
+954.4,273,1431.51,16.35,Preprocessing2 (Begin)
+958.55,276,1431.51,16.35,New Task
+958.55,276,1431.51,16.35,Assign the line2
+959.14,277,1431.51,16.35,Processing2 (Begin)
+959.14,278,1431.51,16.35,Processing2 (Begin)
+959.14,276,1438.63,16.5,Preprocessing2 (Begin)
+959.14,277,1438.63,16.5,Task Completed2
+963.83,279,1438.63,16.5,Processing2 (Begin)
+963.83,280,1438.63,16.5,Processing2 (Begin)
+963.83,279,1445.66,16.65,Task Completed2
+975.37,281,1445.66,16.65,New Task
+975.37,281,1445.66,16.65,Assign the line1
+975.37,281,1445.66,16.65,Preprocessing1 (Begin)
+980.15,282,1456.63,16.65,Processing1 (Begin)
+980.15,283,1456.63,16.65,Processing1 (Begin)
+980.15,282,1466.19,16.85,Task Completed1
+992.95,284,1466.19,16.85,New Task
+992.95,284,1466.19,16.85,Assign the line2
+992.95,284,1466.19,16.85,Preprocessing2 (Begin)
+995.25,285,1476.96,16.85,New Task
+995.25,285,1476.96,16.85,Assign the line1
+995.25,285,1476.96,16.85,Preprocessing1 (Begin)
+997.9,286,1484.51,16.85,Processing2 (Begin)
+997.9,287,1484.51,16.85,Processing2 (Begin)
+997.9,286,1491.92,17,Task Completed2
+999.68,288,1491.92,17,Processing1 (Begin)
+999.68,289,1491.92,17,Processing1 (Begin)
+999.68,288,1500.79,17.2,Task Completed1
+1005.11,290,1500.79,17.2,New Task
+1005.11,290,1500.79,17.2,Assign the line2
+1005.11,290,1500.79,17.2,Preprocessing2 (Begin)
+1010.14,291,1503.46,17.2,Processing2 (Begin)
+1010.14,292,1503.46,17.2,Processing2 (Begin)
+1010.14,291,1511,17.35,Task Completed2
+1014.61,293,1511,17.35,New Task
+1014.61,293,1511,17.35,Assign the line2
+1014.61,293,1511,17.35,Preprocessing2 (Begin)
+1019.65,294,1512.65,17.35,Processing2 (Begin)
+1019.65,295,1512.65,17.35,Processing2 (Begin)
+1019.65,294,1520.21,17.5,Task Completed2
+1045.91,296,1520.21,17.5,New Task
+1045.91,296,1520.21,17.5,Assign the line1
+1045.91,296,1520.21,17.5,Preprocessing1 (Begin)
+1051.02,297,1543.32,17.5,Processing1 (Begin)
+1051.02,298,1543.32,17.5,Processing1 (Begin)
+1051.02,297,1553.54,17.7,Task Completed1
+1069.1,299,1553.54,17.7,New Task
+1069.1,299,1553.54,17.7,Assign the line2
+1069.1,299,1553.54,17.7,Preprocessing2 (Begin)
+1074.17,300,1571.84,17.7,Processing2 (Begin)
+1074.17,301,1571.84,17.7,Processing2 (Begin)
+1074.17,300,1579.45,17.85,Task Completed2
+1084.04,302,1579.45,17.85,New Task
+1084.04,302,1579.45,17.85,Assign the line1
+1084.04,302,1579.45,17.85,Preprocessing1 (Begin)
+1088.66,303,1595.96,17.85,Processing1 (Begin)
+1088.66,304,1595.96,17.85,Processing1 (Begin)
+1088.66,303,1605.19,18.05,Task Completed1
+1089.41,305,1605.19,18.05,New Task
+1089.41,305,1605.19,18.05,Assign the line2
+1089.41,305,1605.19,18.05,Preprocessing2 (Begin)
+1093.94,306,1610.83,18.05,Processing2 (Begin)
+1093.94,307,1610.83,18.05,Processing2 (Begin)
+1093.94,306,1617.62,18.2,Task Completed2
+1096.52,308,1617.62,18.2,New Task
+1096.52,308,1617.62,18.2,Assign the line1
+1096.52,308,1617.62,18.2,Preprocessing1 (Begin)
+1098.85,309,1621.56,18.2,New Task
+1098.85,309,1621.56,18.2,Assign the line2
+1098.85,309,1621.56,18.2,Preprocessing2 (Begin)
+1100.51,310,1623.37,18.2,New Task
+1100.51,310,1623.37,18.2,Assign the line2
+1102.11,311,1623.37,18.2,Processing1 (Begin)
+1102.11,312,1623.37,18.2,Processing1 (Begin)
+1102.11,311,1634.56,18.4,Task Completed1
+1102.74,313,1634.56,18.4,New Task
+1102.74,313,1634.56,18.4,Assign the line2
+1103.61,314,1634.56,18.4,Processing2 (Begin)
+1103.61,315,1634.56,18.4,Processing2 (Begin)
+1103.61,310,1641.7,18.55,Preprocessing2 (Begin)
+1103.61,314,1641.7,18.55,Task Completed2
+1108.56,316,1641.7,18.55,Processing2 (Begin)
+1108.56,317,1641.7,18.55,Processing2 (Begin)
+1108.56,316,1649.12,18.7,Task Completed2
+1108.56,313,1649.12,18.7,Preprocessing2 (Begin)
+1113.59,318,1649.12,18.7,Processing2 (Begin)
+1113.59,319,1649.12,18.7,Processing2 (Begin)
+1113.59,318,1656.66,18.85,Task Completed2
+1155.73,320,1656.66,18.85,New Task
+1155.73,320,1656.66,18.85,Assign the line2
+1155.73,320,1656.66,18.85,Preprocessing2 (Begin)
+1161.03,321,1672.25,18.85,Processing2 (Begin)
+1161.03,322,1672.25,18.85,Processing2 (Begin)
+1161.03,321,1680.2,19,Task Completed2
+1179.3,323,1680.2,19,New Task
+1179.3,323,1680.2,19,Assign the line1
+1179.3,323,1680.2,19,Preprocessing1 (Begin)
+1184.11,324,1718.8,19,Processing1 (Begin)
+1184.11,325,1718.8,19,Processing1 (Begin)
+1184.11,324,1728.41,19.2,Task Completed1
+1232.35,326,1728.41,19.2,New Task
+1232.35,326,1728.41,19.2,Assign the line1
+1232.35,326,1728.41,19.2,Preprocessing1 (Begin)
+1236.79,327,1752.53,19.2,New Task
+1236.79,327,1752.53,19.2,Assign the line2
+1236.79,327,1752.53,19.2,Preprocessing2 (Begin)
+1237.44,328,1780.56,19.2,Processing1 (Begin)
+1237.44,329,1780.56,19.2,Processing1 (Begin)
+1237.44,328,1790.73,19.4,Task Completed1
+1241.64,330,1790.73,19.4,Processing2 (Begin)
+1241.64,331,1790.73,19.4,Processing2 (Begin)
+1241.64,330,1798.01,19.55,Task Completed2
+1258.39,332,1798.01,19.55,New Task
+1258.39,332,1798.01,19.55,Assign the line2
+1258.39,332,1798.01,19.55,Preprocessing2 (Begin)
+1263.6,333,1804.21,19.55,Processing2 (Begin)
+1263.6,334,1804.21,19.55,Processing2 (Begin)
+1263.6,333,1812.02,19.7,Task Completed2
+1264.03,335,1812.02,19.7,New Task
+1264.03,335,1812.02,19.7,Assign the line2
+1264.03,335,1812.02,19.7,Preprocessing2 (Begin)
+1264.23,336,1812.18,19.7,New Task
+1264.23,336,1812.18,19.7,Assign the line1
+1264.23,336,1812.18,19.7,Preprocessing1 (Begin)
+1268.09,337,1825.58,19.7,New Task
+1268.09,337,1825.58,19.7,Assign the line1
+1269.04,338,1825.58,19.7,Processing2 (Begin)
+1269.04,339,1825.58,19.7,Processing2 (Begin)
+1269.04,338,1833.11,19.85,Task Completed2
+1269.57,340,1833.11,19.85,Processing1 (Begin)
+1269.57,341,1833.11,19.85,Processing1 (Begin)
+1269.57,340,1843.78,20.05,Task Completed1
+1269.57,337,1843.78,20.05,Preprocessing1 (Begin)
+1273.98,342,1843.78,20.05,Processing1 (Begin)
+1273.98,343,1843.78,20.05,Processing1 (Begin)
+1273.98,342,1852.61,20.25,Task Completed1
+1283.8,344,1852.61,20.25,New Task
+1283.8,344,1852.61,20.25,Assign the line2
+1283.8,344,1852.61,20.25,Preprocessing2 (Begin)
+1284.83,345,1858.07,20.25,New Task
+1284.83,345,1858.07,20.25,Assign the line2
+1286.98,346,1858.07,20.25,New Task
+1286.98,346,1858.07,20.25,Assign the line1
+1286.98,346,1858.07,20.25,Preprocessing1 (Begin)
+1289.18,347,1864.56,20.25,Processing2 (Begin)
+1289.18,348,1864.56,20.25,Processing2 (Begin)
+1289.18,347,1872.63,20.4,Task Completed2
+1289.18,345,1872.63,20.4,Preprocessing2 (Begin)
+1291.76,349,1872.63,20.4,Processing1 (Begin)
+1291.76,350,1872.63,20.4,Processing1 (Begin)
+1291.76,349,1882.2,20.6,Task Completed1
+1294.29,351,1882.2,20.6,Processing2 (Begin)
+1294.29,352,1882.2,20.6,Processing2 (Begin)
+1294.29,351,1889.86,20.75,Task Completed2
+1306.69,353,1889.86,20.75,New Task
+1306.69,353,1889.86,20.75,Assign the line1
+1306.69,353,1889.86,20.75,Preprocessing1 (Begin)
+1311.48,354,1897.33,20.75,Processing1 (Begin)
+1311.48,355,1897.33,20.75,Processing1 (Begin)
+1311.48,354,1906.91,20.95,Task Completed1
+1322.62,356,1906.91,20.95,New Task
+1322.62,356,1906.91,20.95,Assign the line2
+1322.62,356,1906.91,20.95,Preprocessing2 (Begin)
+1322.91,357,1917.39,20.95,New Task
+1322.91,357,1917.39,20.95,Assign the line2
+1327.59,358,1917.39,20.95,Processing2 (Begin)
+1327.59,359,1917.39,20.95,Processing2 (Begin)
+1327.59,358,1924.86,21.1,Task Completed2
+1327.59,357,1924.86,21.1,Preprocessing2 (Begin)
+1332.43,360,1924.86,21.1,Processing2 (Begin)
+1332.43,361,1924.86,21.1,Processing2 (Begin)
+1332.43,360,1932.11,21.25,Task Completed2
+1332.55,362,1932.11,21.25,New Task
+1332.55,362,1932.11,21.25,Assign the line2
+1332.55,362,1932.11,21.25,Preprocessing2 (Begin)
+1334.55,363,1932.15,21.25,New Task
+1334.55,363,1932.15,21.25,Assign the line1
+1334.55,363,1932.15,21.25,Preprocessing1 (Begin)
+1335.48,364,1943.68,21.25,New Task
+1335.48,364,1943.68,21.25,Assign the line1
+1337.11,365,1943.68,21.25,Processing2 (Begin)
+1337.11,366,1943.68,21.25,Processing2 (Begin)
+1337.11,365,1950.53,21.4,Task Completed2
+1339.32,367,1950.53,21.4,Processing1 (Begin)
+1339.32,368,1950.53,21.4,Processing1 (Begin)
+1339.32,364,1960.07,21.6,Preprocessing1 (Begin)
+1339.32,367,1960.07,21.6,Task Completed1
+1339.49,369,1960.07,21.6,New Task
+1339.49,369,1960.07,21.6,Assign the line2
+1339.49,369,1960.07,21.6,Preprocessing2 (Begin)
+1344.21,370,1960.95,21.6,Processing1 (Begin)
+1344.21,371,1960.95,21.6,Processing1 (Begin)
+1344.21,370,1970.75,21.8,Task Completed1
+1344.49,372,1970.75,21.8,Processing2 (Begin)
+1344.49,373,1970.75,21.8,Processing2 (Begin)
+1344.49,372,1978.25,21.95,Task Completed2
+1348.25,374,1978.25,21.95,New Task
+1348.25,374,1978.25,21.95,Assign the line2
+1348.25,374,1978.25,21.95,Preprocessing2 (Begin)
+1348.73,375,1979.64,21.95,New Task
+1348.73,375,1979.64,21.95,Assign the line1
+1348.73,375,1979.64,21.95,Preprocessing1 (Begin)
+1352.88,376,1981.9,21.95,Processing2 (Begin)
+1352.88,377,1981.9,21.95,Processing2 (Begin)
+1352.88,376,1988.85,22.1,Task Completed2
+1353.02,378,1988.85,22.1,Processing1 (Begin)
+1353.02,379,1988.85,22.1,Processing1 (Begin)
+1353.02,378,1997.43,22.3,Task Completed1
+1391.6,380,1997.43,22.3,New Task
+1391.6,380,1997.43,22.3,Assign the line2
+1391.6,380,1997.43,22.3,Preprocessing2 (Begin)
+1396.43,381,2011.76,22.3,Processing2 (Begin)
+1396.43,382,2011.76,22.3,Processing2 (Begin)
+1396.43,381,2019,22.45,Task Completed2
+1422.34,383,2019,22.45,New Task
+1422.34,383,2019,22.45,Assign the line2
+1422.34,383,2019,22.45,Preprocessing2 (Begin)
+1427.35,384,2028.59,22.45,Processing2 (Begin)
+1427.35,385,2028.59,22.45,Processing2 (Begin)
+1427.35,384,2036.11,22.6,Task Completed2
+1430.67,386,2036.11,22.6,New Task
+1430.67,386,2036.11,22.6,Assign the line2
+1430.67,386,2036.11,22.6,Preprocessing2 (Begin)
+1435.87,387,2037.33,22.6,Processing2 (Begin)
+1435.87,388,2037.33,22.6,Processing2 (Begin)
+1435.87,387,2045.13,22.75,Task Completed2
+1439.01,389,2045.13,22.75,New Task
+1439.01,389,2045.13,22.75,Assign the line1
+1439.01,389,2045.13,22.75,Preprocessing1 (Begin)
+1439.66,390,2088.13,22.75,New Task
+1439.66,390,2088.13,22.75,Assign the line2
+1439.66,390,2088.13,22.75,Preprocessing2 (Begin)
